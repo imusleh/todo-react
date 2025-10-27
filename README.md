@@ -3,7 +3,7 @@
 A simple To-Do List made with HTML, CSS, and JavaScript.  
 You can add, complete, and delete tasks — and your list saves automatically in your browser.
 
-**Live Demo:** [View on GitHub Pages](https://imusleh.github.io/todo-app)
+**Live Demo:** [View on GitHub Pages](https://imusleh.github.io/todo-react/)
 
 ---
 
